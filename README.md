@@ -2,4 +2,4 @@
 
 class everyday to learn programming
 
-first day
+First day
